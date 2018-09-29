@@ -1,0 +1,7 @@
+--realm=${IPA_REALM}
+--domain=${IPA_DOMAIN}
+--ds-password=${IPA_SECRET}
+--admin-password=${IPA_SECRET}
+--mkhomedir
+--no-ntp
+-U
